@@ -1,1 +1,1 @@
-# [ToolKit-telegram.github.io](https://ToolKit.igorek.dev)
+# [ToolKit.igorek.dev](https://ToolKit.igorek.dev)
